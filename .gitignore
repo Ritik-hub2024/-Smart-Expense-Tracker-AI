@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+venv-3/
+venv-new/
+.env/
+
+# Database files
+data.db
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
